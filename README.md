@@ -1,5 +1,5 @@
 # sendtext
-AutoHotKey script for pasting anything using simulated keystrokes.
+AutoHotKey script for pasting into any app using simulated keystrokes.
 
 **Note:** This script uses AutoHotKey v2. Please install the correct version.
 
